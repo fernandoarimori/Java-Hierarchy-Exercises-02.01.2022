@@ -1,0 +1,15 @@
+package Hierarchy;
+
+public class Dog extends Animal {
+	boolean veloz;
+	
+	public Dog() 
+	{
+		this.veloz=true;
+	}
+	
+	public void status() {
+		System.out.println("Pode correr? "+this.veloz);
+	}
+
+}

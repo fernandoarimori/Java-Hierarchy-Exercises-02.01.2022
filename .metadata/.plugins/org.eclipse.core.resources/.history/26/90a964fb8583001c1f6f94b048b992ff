@@ -1,0 +1,11 @@
+package Hierarchy;
+
+public class ObjectCreation {
+
+	public static void main(String[] args) {
+		Animal x = new Animal
+		x.status();
+
+	}
+
+}
